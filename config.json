@@ -6,6 +6,11 @@
   },
   "dbConnection": "postgres://user:secret@localhost/user",
   "bridgeProfile": "testing",
+  "leaveConf": {
+    "context": "",
+    "extension": "",
+    "priority": ""
+  },
   "menuInput": {
     "mute": "1",
     "deafMute": "2",
